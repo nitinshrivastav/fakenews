@@ -40,4 +40,4 @@ def fjkfj():
         return render_template('news.html',answer=disp)
 app.run()
 print("Hello")
-print("How are you")
+print("i am the best")

@@ -39,3 +39,5 @@ def fjkfj():
             disp="Fake news"
         return render_template('news.html',answer=disp)
 app.run()
+print("Hello")
+print("How are you")
